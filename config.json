@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservync",
+        "uuid": 22883840,
+        "checksum": "0blhie"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
